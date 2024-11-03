@@ -1,7 +1,7 @@
 # fantastic-octo-rotary-phone
 Cybersecurity and data privacy 2024 - Blended
 
-#Logbook
+# Logbook
 
 | Date   | Used hours | Subjects   | Output |
 | :---         |     :---      |     :---      |   :---    |

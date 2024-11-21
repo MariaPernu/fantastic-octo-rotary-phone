@@ -13,3 +13,6 @@ Cybersecurity and data privacy 2024 - Blended
 | 15.11.2024 | 2  | Portswigger  | SQL injection |
 | 16.11.2024 | 3,5 | Portswigger  | Authentication vulnerabilities + Access control + Workshop recording |
 | 17.11.2024 | 1  | Portswigger  | Introduction to the portswigger environment assingment |
+| 20.11.2024 | 3  | Docker  | Lecture recording + tutorials + trying to install Docker |
+
+| used hours | 22  |   |  |

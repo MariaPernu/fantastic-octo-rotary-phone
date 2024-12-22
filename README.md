@@ -17,6 +17,5 @@ Cybersecurity and data privacy 2024 - Blended
 | 21.11.2024 | 4  | Docker  | Install Docker and other applications + doing The Booking system project assingment |
 | 22.11.2024 | 4  | The Booking system project assingment  | Doing The Booking system project assingment + watch again lecture recording and tutorials |
 | 20.12.2024 | 4  | Phase 1  | Doing again the booking system project assigment + tutorial videos |
-
 | Used hours | 34  | 
 

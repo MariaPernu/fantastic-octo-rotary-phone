@@ -16,7 +16,7 @@ Cybersecurity and data privacy 2024 - Blended
 | 20.11.2024 | 3  | Docker  | Lecture recording + tutorials + trying to install Docker |
 | 21.11.2024 | 4  | Docker  | Install Docker and other applications + doing The Booking system project assingment |
 | 22.11.2024 | 4  | The Booking system project assingment  | Doing The Booking system project assingment + watch again lecture recording and tutorials |
-| 20.12.2024 | 5  | Phase 1  | Doing again the booking system project assigment + all tutorial videos |
+| 20.12.2024 | 5  | Phase 1  | Doing again the booking system project assigment + all tutorial videos https://github.com/MariaPernu/fantastic-octo-rotary-phone/tree/9b3a369bdb341f2e28bd64b033c841b6e81db63f/Phase%201%20tests |
 | 22.12.2024 | 5  | Phase 2  | https://github.com/MariaPernu/fantastic-octo-rotary-phone/tree/b7ad4ef6c50e061359aeadbb8cd1247df729f50e/Phase%202%20tests |
 | All hours | 40  | 
 

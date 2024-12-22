@@ -15,6 +15,8 @@ Cybersecurity and data privacy 2024 - Blended
 | 17.11.2024 | 1  | Portswigger  | Introduction to the portswigger environment assingment |
 | 20.11.2024 | 3  | Docker  | Lecture recording + tutorials + trying to install Docker |
 | 21.11.2024 | 4  | Docker  | Install Docker and other applications + doing The Booking system project assingment |
-| 22.11.2024 |  4 | The Booking system project assingment  | Doing The Booking system project assingment + watch again lecture recording and tutorials |
-| Used hours | 30  | 
+| 22.11.2024 | 4  | The Booking system project assingment  | Doing The Booking system project assingment + watch again lecture recording and tutorials |
+| 20.12.2024 | 4  | Phase 1  | Doing again the booking system project assigment + tutorial videos |
+
+| Used hours | 34  | 
 
